@@ -3,6 +3,6 @@ Hello GitHub
 
 - item1
 
-#second section
+# second section
 
 - item2
